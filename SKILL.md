@@ -1,6 +1,6 @@
 ---
 name: pythonic-deslop
-description: Python style guide for AI coding agents. Use when writing or modifying Python code to produce clean, idiomatic code.
+description: Python style guide for AI coding agents. Use when writing or modifying Python code, or when the user mentions slop, pythonic style, or code style.
 ---
 
 # Write Python Like a Human
